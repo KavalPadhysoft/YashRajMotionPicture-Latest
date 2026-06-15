@@ -268,7 +268,6 @@ export const Footer: React.FC<FooterProps> = ({ currentTab, setTab }) => {
           id="footer-copyright-subbar"
         >
           <p>© 2026 Yash Raj Motion Picture. All rights reserved.</p>
-          <p className="text-[#555]">Crafted with passion in Ahmedabad</p>
         </div>
       </div>
     </footer>
